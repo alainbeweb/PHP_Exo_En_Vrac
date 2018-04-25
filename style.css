@@ -1,0 +1,31 @@
+.formulaire
+{
+	text-align: center;
+
+}
+
+.messages
+{
+	width:70%;
+    margin:auto;
+    border-bottom: 1px ;
+		background-color: #EFCCF3;
+}
+
+.msg
+{
+	margin-left: 20px;
+}
+
+.auteur
+{
+
+}
+
+.date
+{
+	font-size: 0.6em;
+}
+button{
+	background-color: red;
+}
